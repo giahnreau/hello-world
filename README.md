@@ -1,2 +1,2 @@
 # hello-world
-learning github
+Hi! I'm Giahnreau and i want to learn GitHub
